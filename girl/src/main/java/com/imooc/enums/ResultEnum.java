@@ -4,7 +4,7 @@ public enum ResultEnum {
     UNKONWN_ERROR(-1,"未知错误"),
     SUCCESS(0,"成功"),
     ERROR_ONE(1000,"你是小学生吧"),
-    ERROR_TWO(1001,"你是中学生")
+    ERROR_TWO(1002,"你是中学生")
     ;
     private String msg;
     private Integer code;

@@ -10,10 +10,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 
-/**
- * Created by 廖师兄
- * 2016-11-04 00:08
- */
+
+
 @Service
 public class GirlService {
 
